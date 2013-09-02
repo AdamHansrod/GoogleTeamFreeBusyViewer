@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="bustimetable"
+  id="myeclipse.1359554558767"
+  context-root="/bustimetable"
+  j2ee-spec="6.0"
+  archive="bustimetable.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,21 @@
+#busy{
+	background-color:ForestGreen;
+	padding: 0.5em;
+	border-radius: 0.5em;
+	margin-left: 5%;
+	margin-right : 5%;
+	-moz-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	color: White;
+	text-align: center;
+	width:10%;
+	display: inline-block;
+	min-width: 15em;
+	text-decoration: none;
+}
+#busy.true{
+	background-color:Salmon;
+}
+#busy.false{
+	background-color:ForestGreen;
+}
